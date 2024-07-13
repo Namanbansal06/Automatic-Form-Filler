@@ -104,5 +104,5 @@ def send_screenshot_email(url):
     os.remove(screenshot_path)
 
 
-url = "https://docs.google.com/forms/d/e/1FAIpQLSdUCd3UWQ3VOgeg0ZzNeT-xzNawU8AJ7Xidml-w1vhfBcvBWQ/viewform"
+url = "url"
 send_screenshot_email(url)
